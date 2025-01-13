@@ -48,8 +48,4 @@ Responsible parties (Cities) can login, also with Google, to update the status o
 <br />
 
 ### ⭐ Developers: ⭐
-  * Caner Demir
-  * Chris Docuyanan
-  * Chung, Daeun
-  * Courtney Doss
-  * Windu Sayles
+  * Aditya Patel
